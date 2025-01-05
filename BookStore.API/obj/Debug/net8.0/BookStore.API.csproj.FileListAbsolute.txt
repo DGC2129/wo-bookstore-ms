@@ -283,6 +283,7 @@ C:\Users\gopik\Downloads\BookStore.API\BookStore.API\BookStore.API\obj\Debug\net
 C:\Users\gopik\Downloads\BookStore.API\BookStore.API\BookStore.API\obj\Debug\net8.0\BookStore.API.csproj.CoreCompileInputs.cache
 C:\Users\gopik\Downloads\BookStore.API\BookStore.API\BookStore.API\obj\Debug\net8.0\BookStore.API.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\gopik\Downloads\BookStore.API\BookStore.API\BookStore.API\obj\Debug\net8.0\BookStore.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gopik\Downloads\BookStore.API\BookStore.API\BookStore.API\obj\Debug\net8.0\BookStore.API.sourcelink.json
 C:\Users\gopik\Downloads\BookStore.API\BookStore.API\BookStore.API\obj\Debug\net8.0\scopedcss\bundle\BookStore.API.styles.css
 C:\Users\gopik\Downloads\BookStore.API\BookStore.API\BookStore.API\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\gopik\Downloads\BookStore.API\BookStore.API\BookStore.API\obj\Debug\net8.0\staticwebassets.development.json

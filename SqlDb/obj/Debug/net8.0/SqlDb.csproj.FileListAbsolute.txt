@@ -21,6 +21,7 @@ C:\Users\gopik\Downloads\BookStore.API\BookStore.API\SqlDb\obj\Debug\net8.0\SqlD
 C:\Users\gopik\Downloads\BookStore.API\BookStore.API\SqlDb\obj\Debug\net8.0\SqlDb.AssemblyInfoInputs.cache
 C:\Users\gopik\Downloads\BookStore.API\BookStore.API\SqlDb\obj\Debug\net8.0\SqlDb.AssemblyInfo.cs
 C:\Users\gopik\Downloads\BookStore.API\BookStore.API\SqlDb\obj\Debug\net8.0\SqlDb.csproj.CoreCompileInputs.cache
+C:\Users\gopik\Downloads\BookStore.API\BookStore.API\SqlDb\obj\Debug\net8.0\SqlDb.sourcelink.json
 C:\Users\gopik\Downloads\BookStore.API\BookStore.API\SqlDb\obj\Debug\net8.0\SqlDb.dll
 C:\Users\gopik\Downloads\BookStore.API\BookStore.API\SqlDb\obj\Debug\net8.0\refint\SqlDb.dll
 C:\Users\gopik\Downloads\BookStore.API\BookStore.API\SqlDb\obj\Debug\net8.0\SqlDb.pdb
